@@ -1,0 +1,1 @@
+bash <(curl -sSL https://g.bodaay.io/hfd) -m mlx-community/Llama-3.2-3B-Instruct -t [your hf token]
